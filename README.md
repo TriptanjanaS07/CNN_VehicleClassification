@@ -19,4 +19,9 @@ The dataset consists of 132 images which are divided into test and train folders
 !unzip '/path to/Bike and cars.zip'
 ```
 
-5. 
+5. Copy the path of train and test folder and paste it in the respective section of directory.
+<img src="https://github.com/TriptanjanaS07/CNN_VehicleClassification/blob/main/CNN%20Readme%20Images/Screenshot%202023-04-25%20at%202.22.48%20PM.png" style=""></img>
+
+6. Go to Runtime -> Run all or press ctrl+F9
+
+7.
